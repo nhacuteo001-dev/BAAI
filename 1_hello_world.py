@@ -1,7 +1,7 @@
 #
-# Victor
+# Victor, 2025/09/24
 # Print Hello Tunghai University!
-#
+# file 0_template.py
 
 # 1. Input
 
